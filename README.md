@@ -16,3 +16,4 @@ Hi, my name is Newmar Lucas, I'm Dev Frontend, and I know a little bit of Backen
 - SQLite
 - Git
 - Vercel
+- Photoshop CS6
