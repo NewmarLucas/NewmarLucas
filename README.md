@@ -10,6 +10,7 @@ Hi, my name is Newmar Lucas, I'm Dev Frontend, and I know a little bit of Backen
 - JavaScript
 - HTML5
 - CSS3
+- Node
 - React 
 - React Native
 - Next 
@@ -17,4 +18,3 @@ Hi, my name is Newmar Lucas, I'm Dev Frontend, and I know a little bit of Backen
 - Git
 - Vercel
 - Photoshop CS6
-- Node
